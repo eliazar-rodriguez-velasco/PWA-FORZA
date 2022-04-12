@@ -1,0 +1,11 @@
+{
+    "name": "Forza",
+    "start_url": "index.html",
+    "display": "forza",
+    "background_color": "black",
+    "icons": [
+        {
+            "src": "/src/img/icon.png"
+        }
+    ]
+}
